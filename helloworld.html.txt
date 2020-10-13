@@ -1,0 +1,11 @@
+<html>
+<header><title>Tenik Komputer Universitas Brawijaya</title></header>
+<body>
+<h1 style="color: #4485b8;"><span style="color: #000;"><span style="color: #4485b8;">Cakra Bhirawa - Teknik Komputer 2017</span></span></h1>
+<h1 style="color: #4485b8;"><span style="color: #333333; font-size: 14px;"><strong>Tugas 2:</strong> Pembuatan webserver sederhana dengan apache2 melalui instance ubuntu 18.04LTS di AWS EC2 2019</span></h1>
+<hr />
+<p><span style="background-color: #4485b8; color: #fff; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 5px;">Hello, Administrasi Sistem Server Kelas A Teknik Komputer!</span>&nbsp;</p>
+<hr />
+<p><em>&copy; Tjakrabirawa 2020</em></p>
+</body>
+</html>
